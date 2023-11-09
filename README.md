@@ -10,7 +10,7 @@ AD ART tidak boleh disahkan kembali jika tidak ada perubahan di dalam AD ART, Ji
 
 # SOP Dewan Formatur
 - Dewan formatur berperan untuk mengawasi organisasi dan juga pekerjaan ketua umum, ketua 1, ketua 2. 
-- Dalam herarki dewan Formatur berada diatas organisasi dan Juga ketua umum.
+- Dalam herarki dewan Formatur berada diatas ketua umum.
 - Dewan Formatur juga dapat memberi sanksi terhadap suatu sie atau ketua jika melanggar dari salah satu AD ART dan Angaran Rumah Tangga
 
 # Proker & tanggung jawab
