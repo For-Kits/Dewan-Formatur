@@ -3,7 +3,7 @@ Project Dewan Formatur
 
 # Reor Dewan Formatur
 - Reor Dewan Formatur harus dilaksanakan setelah diklat anggota baru
-- Setelah pelantikan dewan Formatur, Dewan Formatur wajib mengadakan presentasi tentang AD ART untuk Angkatan Baru
+- Setelah pelantikan dewan Formatur, Dewan Formatur wajib mengadakan presentasi/sosialisasi tentang AD ART untuk Angkatan Baru
 
 # Dewan Formatur
 Setalah Dilantiknya Dewwan Formatur, Dewan Formatur Wajib Mengetahui dan Memahami AD ART yang ada [Disini](https://github.com/For-Kits/Dewan-Formatur).
