@@ -24,6 +24,6 @@ Dewan Formatur juga memiliki beberapa proker yang dilaksanakan bersama Komunitas
 - Dewan Formatur juga wajib ikut serta dalam seluruh rapat organisasi sesuai AD ART
 - Dewan Formatur juga bertugas me rekap seluruh rapat dalam 1 bulan, update [disini](https://docs.google.com/spreadsheets/d/1w5jbG2OFM_LiTYv2kX-G9xt053RIlWVw1OO4dsgo8TA/edit#gid=0)
 - Dewan Formatur bertugas untuk memastikan jalannya setiap rapat
-- Dewan Formatur bertugas mengajukan rapat besar kepada pembuna
+- Dewan Formatur bertugas mengajukan rapat besar kepada pembina, Setelah Ketua proker mengajukan ke Dewan Formatur
 - Rapat besar dilaksanakan paling lambat seminggu sebelum proker terlaksana
 - Rapat besar sah apabila di ikut minimal 1 pembina, 2 dewan formatur, dan masing-masing pengurus proker.
