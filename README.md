@@ -17,7 +17,7 @@ AD ART tidak boleh disahkan kembali jika tidak ada perubahan di dalam AD ART, Ji
 # Proker & tanggung jawab
 Dewan Formatur juga memiliki beberapa proker yang dilaksanakan bersama Komunitas, antara lain:
 - Bertanggung jawab dengan surat pernyataan pembuatan pdl [Disini](https://github.com/For-Kits/Dewan-Formatur/blob/main/surat/Surat%20Pernyataan-PDL.docx)
-- Dewan Formatur bertugas Memberikan Surat Pernytatan(sp) kepada seorang anggota jika Anggota tersebut terbukti melanggar aturan, Surat Pernyataan(SP) maximal 3x kepada 1 orang anggota 
+- Dewan Formatur bertugas Memberikan Surat Peringatan(sp) kepada seorang anggota jika Anggota tersebut terbukti melanggar aturan, Surat Peringatan(SP) maximal 3x kepada 1 orang anggota
 - Dewan Formatur bertugas untuk Mengeluarkan Anggota dari Komunitas, jika Anggota tersebut sudah mendapat SP 3x
 - Dewan Formatur bertugas mengambil kembali baju komunitas pada Anggota yang keluar
 - Dewan Formatur juga wajib ikut serta dalam seluruh rapat organisasi sesuai AD ART
